@@ -36,4 +36,4 @@ https://github.com/ReyMga/e-commerceShopCart/assets/103077912/99476a63-5d20-47f1
   
   <img src="https://github.com/ReyMga/e-commerceShopCart/assets/103077912/59d8de33-a154-47a0-9f05-09ee9d33d144" width="50" alt="CSS3 Icon">
 
-  <img src="https://github.com/ReyMga/e-commerceShopCart/assets/103077912/cc511291-315b-48c9-b495-967fa5d94e3e" width="50" alt="JavaScript Icon">
+  
